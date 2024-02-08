@@ -96,10 +96,13 @@ To access the app through its published link on Expo.dev, follow these steps:
 
 1. **Visit the Published Link:** Navigate to the published link provided in this README. The link should look something like this (replace with your actual link):
 
-https://expo.dev/accounts/usmangq/projects/weather-app
+2. **Scan the QR Code or Enter manually:**
 
+# Android Published Link to enter into Expo Go App
+exp://u.expo.dev/update/2cb10a47-adde-4f20-87e0-c3562d1389aa
 
-2. **Scan the QR Code:**
+# IOS Published Link to enter into Expo Go App
+exp://u.expo.dev/update/984508b6-4d78-4321-88e3-ee785b66f6ed
 
 - If you are using a **physical device**, open the Expo Go app.
 - Use the app to scan the QR code displayed on the page of the link above.
