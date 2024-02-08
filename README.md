@@ -64,11 +64,6 @@ Given more time, my priorities for enhancing the application would include:
 
 ![Selected City Results](./assets/screenshots/selected_city.jpg "Selected City Results")
 
-
-## A Screenshot/GIF of What Was Made
-
-![App Screenshot/GIF]
-
 ## Getting Started
 
 ### Prerequisites
